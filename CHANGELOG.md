@@ -9,6 +9,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [11.6.0] - 2026-05-23 - "Audit Hardening and Karpathy Guidelines"
+
+> Installable skill library update for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and related AI coding assistants.
+
+Start here:
+
+- Install: `npx antigravity-awesome-skills --help`
+- Choose your tool: [README.md#choose-your-tool](README.md#choose-your-tool)
+- Best skills by tool: [README.md#best-skills-by-tool](README.md#best-skills-by-tool)
+- Bundles: [docs/users/bundles.md](docs/users/bundles.md)
+- Workflows: [docs/users/workflows.md](docs/users/workflows.md)
+
+This release hardens the repository after a full audit pass, fixes issue #611 by syncing `andrej-karpathy` to English upstream guidelines, and improves release/security guardrails.
+
 ## Security
 
 - Replaced executable pipe-to-shell install examples across canonical skills with package-manager or download-inspect-execute flows, and removed the obsolete allowlist comments.
