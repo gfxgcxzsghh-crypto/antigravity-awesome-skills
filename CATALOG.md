@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 1468
+Total skills: 1469
 
 ## architecture (96)
 
@@ -193,7 +193,7 @@ Total skills: 1468
 | `wordpress-centric-high-seo-optimized-blogwriting-skill` | Create long-form, high-quality, SEO-optimized blog posts ready for WordPress with truth boxes and FAQ schema. | writing, blog, seo, content, wordpress | writing, blog, seo, content, wordpress, centric, high, optimized, blogwriting, skill, long, form |
 | `xiaohongshu-content-strategist` | Create viral Xiaohongshu (小红书) content with platform-native strategy, save-rate optimization, trending formats, and search SEO for China's #1 lifestyle platf... | xiaohongshu, chinese-market, content-strategy, social-media, marketing, 红书, 小红书 | xiaohongshu, chinese-market, content-strategy, social-media, marketing, 红书, 小红书, content, strategist, viral, platform, native |
 
-## data-ai (282)
+## data-ai (283)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -346,6 +346,7 @@ Total skills: 1468
 | `frontend-ui-dark-ts` | A modern dark-themed React UI system using Tailwind CSS and Framer Motion. Designed for dashboards, admin panels, and data-rich applications with glassmorphi... | frontend, ui, dark, ts | frontend, ui, dark, ts, themed, react, tailwind, css, framer, motion, designed, dashboards |
 | `gdb-cli` | GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation | debugging, gdb, core-dump, crash-analysis, c++, c | debugging, gdb, core-dump, crash-analysis, c++, c, cli, assistant, ai, agents, analyze, core |
 | `gemini-api-dev` | The Gemini API provides access to Google's most advanced AI models. Key capabilities include: | gemini, api, dev | gemini, api, dev, provides, access, google, most, ai, models, key, capabilities, include |
+| `geminiignore-finops` | Configure and optimize .geminiignore files for AI context window efficiency and token cost reduction (FinOps). | finops, context-management, token-optimization, geminiignore | finops, context-management, token-optimization, geminiignore, configure, optimize, files, ai, context, window, efficiency, token |
 | `geo-fundamentals` | Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity). | geo, fundamentals | geo, fundamentals, generative, engine, optimization, ai, search, engines, chatgpt, claude, perplexity |
 | `global-chat-agent-discovery` | Discover and search 18K+ MCP servers and AI agents across 6+ registries using Global Chat's cross-protocol directory and MCP server. | mcp, ai-agents, agent-discovery, agents-txt, a2a, developer-tools | mcp, ai-agents, agent-discovery, agents-txt, a2a, developer-tools, global, chat, agent, discovery, discover, search |
 | `google-analytics-automation` | Automate Google Analytics tasks via Rube MCP (Composio): run reports, list accounts/properties, funnels, pivots, key events. Always search tools first for cu... | google, analytics | google, analytics, automation, automate, tasks, via, rube, mcp, composio, run, reports, list |

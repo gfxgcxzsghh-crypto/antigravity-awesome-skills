@@ -13716,6 +13716,28 @@
     }
   },
   {
+    "id": "geminiignore-finops",
+    "path": "skills/geminiignore-finops",
+    "category": "context-optimization",
+    "name": "geminiignore-finops",
+    "description": "Configure and optimize .geminiignore files for AI context window efficiency and token cost reduction (FinOps).",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-05-25",
+    "plugin": {
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": []
+    }
+  },
+  {
     "id": "geo-fundamentals",
     "path": "skills/geo-fundamentals",
     "category": "marketing",

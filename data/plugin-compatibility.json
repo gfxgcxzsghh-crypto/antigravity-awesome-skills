@@ -11884,6 +11884,25 @@
       "runtime_files": []
     },
     {
+      "id": "geminiignore-finops",
+      "path": "skills/geminiignore-finops",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
       "id": "geo-fundamentals",
       "path": "skills/geo-fundamentals",
       "targets": {
@@ -28096,10 +28115,10 @@
     }
   ],
   "summary": {
-    "total_skills": 1468,
+    "total_skills": 1469,
     "supported": {
-      "codex": 1432,
-      "claude": 1447
+      "codex": 1433,
+      "claude": 1448
     },
     "blocked": {
       "codex": 36,
