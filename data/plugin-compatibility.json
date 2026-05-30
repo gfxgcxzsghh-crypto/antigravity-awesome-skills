@@ -7462,6 +7462,25 @@
       "runtime_files": []
     },
     {
+      "id": "container-security-hardening",
+      "path": "skills/container-security-hardening",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
       "id": "content-creator",
       "path": "skills/content-creator",
       "targets": {
@@ -28324,10 +28343,10 @@
     }
   ],
   "summary": {
-    "total_skills": 1480,
+    "total_skills": 1481,
     "supported": {
-      "codex": 1444,
-      "claude": 1459
+      "codex": 1445,
+      "claude": 1460
     },
     "blocked": {
       "codex": 36,

@@ -8740,6 +8740,28 @@
     }
   },
   {
+    "id": "container-security-hardening",
+    "path": "skills/container-security-hardening",
+    "category": "security",
+    "name": "container-security-hardening",
+    "description": "Harden Docker/container images and runtime deployments with secure base images, non-root users, CVE scanning, SBOM/signing, seccomp/AppArmor, and Kubernetes pod security controls. Use for Dockerfile security reviews, container CVEs, image scanning, distroless images, or production hardening.\n",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-05-30",
+    "plugin": {
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": []
+    }
+  },
+  {
     "id": "content-creator",
     "path": "skills/content-creator",
     "category": "marketing",

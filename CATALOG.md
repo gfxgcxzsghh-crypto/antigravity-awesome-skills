@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 1480
+Total skills: 1481
 
 ## architecture (97)
 
@@ -1203,7 +1203,7 @@ Total skills: 1480
 | `whatsapp-cloud-api` | Integracao com WhatsApp Business Cloud API (Meta). Mensagens, templates, webhooks HMAC-SHA256, automacao de atendimento. Boilerplates Node.js e Python. | messaging, whatsapp, meta, webhooks | messaging, whatsapp, meta, webhooks, cloud, api, integracao, com, business, mensagens, hmac, sha256 |
 | `workflow-automation` | Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost... |  | automation, infrastructure, makes, ai, agents, reliable, without, durable, execution, network, hiccup, during |
 
-## security (176)
+## security (177)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -1248,6 +1248,7 @@ Total skills: 1480
 | `codebase-cleanup-deps-audit` | You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for ... | codebase, cleanup, deps, audit | codebase, cleanup, deps, audit, dependency, security, specializing, vulnerability, scanning, license, compliance, supply |
 | `comfyui-gateway` | REST API gateway for ComfyUI servers. Workflow management, job queuing, webhooks, caching, auth, rate limiting, and image delivery (URL + base64). | comfyui, api-gateway, image-generation, typescript | comfyui, api-gateway, image-generation, typescript, gateway, rest, api, servers, job, queuing, webhooks, caching |
 | `comprehensive-review-pr-enhance` | Generate structured PR descriptions from diffs, add review checklists, risk assessments, and test coverage summaries. Use when the user says "write a PR desc... | comprehensive, pr, enhance | comprehensive, pr, enhance, review, generate, structured, descriptions, diffs, add, checklists, risk, assessments |
+| `container-security-hardening` | Harden Docker/container images and runtime deployments with secure base images, non-root users, CVE scanning, SBOM/signing, seccomp/AppArmor, and Kubernetes ... | container, security, hardening | container, security, hardening, harden, docker, images, runtime, deployments, secure, base, non, root |
 | `context-guardian` | Guardiao de contexto que preserva dados criticos antes da compactacao automatica. Snapshots, verificacao de integridade e zero perda de informacao. | context, data-integrity, snapshots, verification | context, data-integrity, snapshots, verification, guardian, guardiao, de, contexto, que, preserva, dados, criticos |
 | `convex` | Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment. | convex | convex, reactive, backend, schema, typescript, functions, real, time, subscriptions, auth, file, storage |
 | `cred-omega` | CISO operacional enterprise para gestao total de credenciais e segredos. | credentials, secrets, security, api-keys, vault | credentials, secrets, security, api-keys, vault, cred, omega, ciso, operacional, enterprise, para, gestao |
